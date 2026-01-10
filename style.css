@@ -24,7 +24,7 @@
 .warp {
     background-color: #0D479A;
     padding: 20px;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .heading {
